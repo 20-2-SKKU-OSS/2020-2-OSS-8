@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Team
-image: school_view.png
+image: 13.jpg
 ---
 
  우리 조는 Psynoop과 Tinykaboom 오픈소스 프로젝트를 선정하였다.<br>
