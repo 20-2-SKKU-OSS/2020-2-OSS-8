@@ -2,7 +2,7 @@
 layout: post
 title: Team Project 선정
 date: 2020-11-14 23:34:28 +0300
-img: 19.jpg
+img: topic_selection.jpg
 tags: Rest
 ---
 우리 조는 FlatBuffer, Psynoop, Tinykaboom, Flutter 오픈소스 프로젝트를 조사하였고, 그 중에서 Pysnoop, Tinykaboom 을 팀 프로젝트로 선정하였다.
