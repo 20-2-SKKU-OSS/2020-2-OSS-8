@@ -1,14 +1,14 @@
 # Site settings
-title: Lokmont
+title: OSS Project
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com 
 remote_theme: artemsheludko/lokmont
 
 # Banner Section
-hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero: school_view.png
+hero-title: 2020-2 OSS Project Team 8
+hero-description: We are 2020-2-OSS-8 Team. Our topic is the Psynoop or Tinykaboom project.
 
 # Author - Creator
 author-name: Ben Campbell
