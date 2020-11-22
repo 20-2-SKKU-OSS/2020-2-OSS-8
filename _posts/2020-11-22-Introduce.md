@@ -2,7 +2,7 @@
 layout: post
 title: Team Project Introducing
 date: 2020-11-22 23:34:28 +0300
-img: 13.jpg
+img: Introducing.jpg
 tags: Introduction
 ---
 
