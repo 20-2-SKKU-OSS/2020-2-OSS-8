@@ -9,7 +9,7 @@ tags: 역할 및 활동
  두 프로젝트에 대해 다음과 같이 기여를 하고자 한다.
 
 ### 구체적인 개인별 역할 및 활동
-<table style="width:160%" align="center">
+<table style="width:100%" align="center">
 <tr style="background-color:lightgrey;">
   <th></th>
 	<th><b>PySnooper</b></th>
