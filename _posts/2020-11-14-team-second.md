@@ -2,7 +2,7 @@
 layout: post
 title: Team Project 개선방향
 date: 2020-11-22 14:12:00 +0300
-img: 3.jpg
+img: 21.jpg
 tags: 개선방향
 ---
 앞서 선정 및 분석한 Pysnoop과 Tinykaboom 프로젝트에 대한 개선방안을 제시하고자 한다.
