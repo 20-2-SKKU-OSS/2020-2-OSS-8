@@ -5,13 +5,13 @@ date: 2020-11-14 23:34:28 +0300
 img: topic_selection.jpg
 tags: Topic
 ---
-우리 조는 FlatBuffer, Psynoop, Tinykaboom, Flutter 오픈소스 프로젝트를 조사하였고, 그 중에서 Pysnoop, Tinykaboom 을 팀 프로젝트로 선정하였다.
+우리 조는 FlatBuffer, Psynooper, Tinykaboom, Flutter 오픈소스 프로젝트를 조사하였고, 그 중에서 Pysnooper, Tinykaboom 을 팀 프로젝트로 선정하였다.
 다음은 조사한 프로젝트들에 대한 설명을 요약하면 다음과 같다. 
 
 ### 조사한 프로젝트들에 대한 설명
 
 1. FlatBuffer : 메모리 효율을 극대화하도록 설계된 교차 플랫폼 직렬화 라이브러리
-2. Pysnoop : Python 파일 컴파일 시 라인별로 이상이 생겼는지, 변수의 값이 무엇인지를 출력해주는 디버깅 툴
+2. Pysnooper : Python 파일 컴파일 시 라인별로 이상이 생겼는지, 변수의 값이 무엇인지를 출력해주는 디버깅 툴
 3. Tinykaboom : 컴퓨터그래픽 교육자료로 폭발 이미지를 생성하는 프로젝트
 4. Flutter : 모바일 어플리케이션 프레임워크인 flutter의 기능을 연습할 수 있도록 샘플을 모아둔 프로젝트
 
@@ -20,15 +20,15 @@ tags: Topic
 ### 조사한 프로젝트들에 대한 가능한 기여방식 또는 개선방안 내용
 
 1. FlatBuffer : rust언어로 지원 가능하도록 하는 것
-2. Pysnoop : 정리된 이슈들을 해결하고 필요한 기능과 새로운 이슈를 찾는 것
+2. Pysnooper : 정리된 이슈들을 해결하고 필요한 기능과 새로운 이슈를 찾는 것
 3. Tinykaboom : 학습에 필요한 주석을 배우는 사람의 입장에서 추가하는 것, 출력 이미지의 개선
 4. Flutter : 버그 및 개선점을 리포트 하는 것
 
-팀원들간 어떠한 프로젝트를 최종 선정할지 의논해 보았고, 최종적으로 8조는 Pysnoop과 Tinykaboom 프로젝트를 선정했다.
+팀원들간 어떠한 프로젝트를 최종 선정할지 의논해 보았고, 최종적으로 8조는 Pysnooper과 Tinykaboom 프로젝트를 선정했다.
 
 다음은 개인별로 희망하는 각 프로젝트의 기여 방식이다.
 
-|  	| Pysnoop 	| Tinykaboom 	|
+|  	| Pysnooper 	| Tinykaboom 	|
 |-	|-	|-	|
 | 임호진 	| 이슈 발견 및 주석 추가 	| 출력 이미지 개선 및 추가 개선사항 조사 	|
 | 이수민 	| 이슈 선정 및 개선 	| 학습 및 필요한 주석 추가 	|
