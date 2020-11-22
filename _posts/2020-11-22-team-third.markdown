@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Rest in the woods
-date: 2017-10-09 17:33:29 +0300
+title: Team Project에 대한 개인별 역할 및 활동
+date: 2020-11-22 14:32:00 +0300
 img: 18.jpg
-tags: Rest
+tags: 역할 및 활동
 ---
-Literally lomo blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
-
-Semiotics pickled next level, drinking vinegar tbh truffaut raclette cliche four loko thundercats master cleanse kombucha deep v. Enamel pin authentic sartorial, bitters paleo taiyaki vegan salvia. Sriracha knausgaard deep v, irony ramps hammock YOLO raclette. Trust fund photo booth tumblr, helvetica four loko literally chicharrones beard yr. Cronut PBR&B XOXO palo santo tbh craft beer, crucifix tumblr. Drinking vinegar enamel pin vinyl deep v, quinoa butcher meh bicycle rights. Jianbing neutra iceland salvia ennui. Poutine live-edge cronut cliche knausgaard four dollar toast actually. Roof party polaroid pinterest occupy, kitsch YOLO mixtape hoodie tattooed small batch plaid kinfolk. Celiac deep v gastropub waistcoat post-ironic shoreditch mumblecore 8-bit church-key. Try-hard PBR&B aesthetic quinoa, trust fund lomo poke. Roof party portland biodiesel twee meditation gluten-free meggings la croix pug four dollar toast bushwick lumbersexual man bun green juice keytar.
+ 프로젝트 경험들을 바탕으로 하여 python base의 Pysnoop과 c++ base의 Tinykaboom 오픈소스 프로젝트에 대해서 본인의 수행 능력과 역량에 맞는 역할을 구체적으로 고민해보았고,
+ 두 프로젝트에 대해 다음과 같이 기여를 하고자 한다.
 
 ### You need a little dummy text
 
