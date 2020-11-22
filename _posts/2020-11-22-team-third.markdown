@@ -2,7 +2,7 @@
 layout: post
 title: Team Project에 대한 개인별 역할 및 활동
 date: 2020-11-22 14:32:00 +0300
-img: 18.jpg
+img: role.jpg
 tags: 역할 및 활동
 ---
  프로젝트 경험들을 바탕으로 하여 python base의 Pysnoop과 c++ base의 Tinykaboom 오픈소스 프로젝트에 대해서 본인의 수행 능력과 역량에 맞는 역할을 구체적으로 고민해보았고,
