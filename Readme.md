@@ -9,4 +9,4 @@ https://github.com/ssloy/tinykaboom
 
 정적페이지
 
-20-2-SKKU-OSS.github.io/2020-2-OSS-8/
+https://20-2-skku-oss.github.io/2020-2-OSS-8/
