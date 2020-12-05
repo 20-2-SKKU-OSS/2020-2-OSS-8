@@ -2,7 +2,7 @@
 layout: post
 title: Issue 분석
 date: 2020-12-05 20:31:28 +0300
-img: 15.jpg
+img: issue.jpg
 tags: Issue
 ---
 
