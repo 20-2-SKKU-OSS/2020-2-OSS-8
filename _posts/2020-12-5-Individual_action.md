@@ -58,6 +58,7 @@ tags: Topic
 * 이슈에 대한 얘기 후, 출력 결과물에 색상을 추가하는 기능 추가<br>
 * To_do_list 작성<br>
 * color function을 담은 tracer.py pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/2">Pull&Request#2</a>)<br><br>
+* 여러개의 issue에 comment 활동<br>
 
 최종적으로 개인이 작업하여 합친 결과물을 본 프로젝트에 기여<br>
 기존 프로젝트 ↓<br>
