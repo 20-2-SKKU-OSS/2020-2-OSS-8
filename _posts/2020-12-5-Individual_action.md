@@ -23,7 +23,7 @@ tags: Topic
 <p><strong> 이수민 </strong></p>
 > * 팀 정적 페이지 구성에 참여<br> 
 * 각 파일에 주석 작업
-* 각종 Issue 분석해서 포스트로 작성 (a href="https://20-2-skku-oss.github.io/2020-2-OSS-8/2020/12/05/team_fourth/">Issue분석"</a>)<br>
+* 각종 Issue 분석해서 포스트로 작성 (<a href="https://20-2-skku-oss.github.io/2020-2-OSS-8/2020/12/05/team_fourth/">Issue분석"</a>)<br>
 * 본 프로젝트 관련 최종 발표자료 작성 담당
 * relative time 관련 작업 <br>
 * 여러개의 issue에 comment  활동<br>
