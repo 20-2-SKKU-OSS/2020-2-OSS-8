@@ -2,7 +2,7 @@
 layout: post
 title: Team Project에 개인별 기여 활동
 date: 2020-12-5 21:8:28 +0300
-img: improvement_1.jpg
+img: contribution.jpg
 tags: Topic
 ---
 
