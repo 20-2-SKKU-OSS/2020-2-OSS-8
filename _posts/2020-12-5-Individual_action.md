@@ -26,6 +26,7 @@ tags: Topic
 * relative time 버그 관련 작업<br>
 * pull& request merge, confliction 관리<br>
 * 여러개의 issue에 comment 활동<br>
+* 전반적인 컨트롤 담당<br>
 
 <p><strong> 이수민 </strong></p>(<a href="https://xhdzl6280.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br> 
