@@ -58,4 +58,6 @@ tags: Topic
 * color function을 담은 tracer.py pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/2">Pull&Request#2</a>)<br><br>
 
 최종적으로 개인이 작업하여 합친 결과물을 본 프로젝트에 기여<br>
+<img src="colored_pysnooper.jpg">
+<img src="original_pysnooper.jpg">
 개선된 프로젝트 기여시도(<a href="https://github.com/cool-RR/PySnooper/pull/208">https://github.com/cool-RR/PySnooper/pull/208"</a>)<br>
