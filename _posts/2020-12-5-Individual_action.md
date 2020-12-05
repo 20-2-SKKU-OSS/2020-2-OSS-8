@@ -15,7 +15,7 @@ tags: Topic
 ![colored]({{site.baseurl}}/images/colored_pysnooper.jpg)<br>
 (개선된 프로젝트(선택적 color 출력 기능 구현) <br>
 <br>
-이하 내용은 저희 팀의 Discussion Session과 개인별 기여 항목을 정리한 것입니다.
+이하 내용은 저희 팀의 Discussion Session과 개인별 기여 항목을 정리한 것입니다.<br>
 팀 Discussion Session (<a href="https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8">https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8</a>)<br>
 
 <p><strong> 임호진  </strong></p>
