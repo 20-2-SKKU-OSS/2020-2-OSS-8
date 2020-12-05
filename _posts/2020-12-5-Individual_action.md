@@ -14,7 +14,7 @@ OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동�
 > 팀 정적 페이지 구성에 참여
 추후 팀 활동에 대한 구체적인 계획 수립
 Pysnooper에 이슈로 남아있는 relative time 관련 버그 이슈 생성
-<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/10">Label</a>
+<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/10">https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/10</a>
 
 <p><strong> 이수민 </strong></p>
 
