@@ -28,14 +28,14 @@ tags: Topic
 * relative time 관련 작업 <br>
 * 여러개의 issue에 comment  활동<br>
 
-<p><strong> 천기오 </strong></p><<a href="https://github.com/CheonKiO/CheonKiO.github.io">Blog</a>><br>
+<p><strong> 천기오 </strong></p>(<a href="https://github.com/CheonKiO/CheonKiO.github.io"></a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * pysnooper의 기능 실험을 위한 testcase 추가하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/6">Pull&Request#6</a>)<br>
 * variables 파일 주석 추가 및 줄간격 수정하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/5">Pull&Request#5</a>)<br>
 * 정적 페이지 정리 관련 이슈 생성<br> (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/9">Issue#9</a>)<br>
 * 여러개의 issue에 comment 활동<br>
 
-<p><strong> 김민제 </strong></p><<a href="https://yunminjin2.github.io/">Blog</a>><br>
+<p><strong> 김민제 </strong></p>(<a href="https://yunminjin2.github.io/"></a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * 각 파일마다 주석, 안 쓰이는 라이브러리 삭제<br>
 * pysnooper test를 위한 testcase 추가<br>
@@ -44,14 +44,14 @@ tags: Topic
 * 개발자의 요구에 맞춰 선택적 color 기능 구현하여 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/11/commits/5e1d6983fa40a7bd44aedbee24dbe06a910cdfd9">Pull&Request#11</a>)<br>
 * 개발자 요구 이슈화 <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/8">Issue#8</a><br>
 
-<p><strong> 양세중 </strong></p><<a href="https://yangsejung.github.io/">Blog</a>><br>
+<p><strong> 양세중 </strong></p>(<a href="https://yangsejung.github.io/"></a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * 각 파일에 주석 작업<br>
 * 영어로만 작성된 Pysnooper의 readme.md의 한글 번역본 새로 작성하여 추가<br>
 * relative time 관련 작업<br>
 * 여러개의 issue에 comment 활동<br>
 
-<p><strong> 이진섭 </strong></p> <<a href="https://github.com/JINSUBY/jinsuby.github.io">Blog</a>><br>
+<p><strong> 이진섭 </strong></p> (<a href="https://github.com/JINSUBY/jinsuby.github.io"></a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * pysnooper에 한가지 색상으로만 출력되는 문제 이슈 생성<br>
 * 이슈에 대한 얘기 후, 출력 결과물에 색상을 추가하는 기능 추가<br>
