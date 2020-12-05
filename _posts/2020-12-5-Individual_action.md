@@ -28,7 +28,7 @@ tags: Topic
 * relative time 관련 작업 <br>
 * 여러개의 issue에 comment  활동<br>
 
-<p><strong> 천기오 </strong></p>(<a href="https://github.com/CheonKiO/CheonKiO.github.io">개인 블로그 방문</a>)<br>
+<p><strong> 천기오 </strong></p>(<a href="https://cheonkio.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * pysnooper의 기능 실험을 위한 testcase 추가하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/6">Pull&Request#6</a>)<br>
 * variables 파일 주석 추가 및 줄간격 수정하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/5">Pull&Request#5</a>)<br>
@@ -51,7 +51,7 @@ tags: Topic
 * relative time 관련 작업<br>
 * 여러개의 issue에 comment 활동<br>
 
-<p><strong> 이진섭 </strong></p> (<a href="https://github.com/JINSUBY/jinsuby.github.io">개인 블로그 방문</a>)<br>
+<p><strong> 이진섭 </strong></p> (<a href="https://jinsuby.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * pysnooper에 한가지 색상으로만 출력되는 문제 이슈 생성<br>
 * 이슈에 대한 얘기 후, 출력 결과물에 색상을 추가하는 기능 추가<br>
