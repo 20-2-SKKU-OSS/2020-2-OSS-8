@@ -35,6 +35,6 @@ OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동�
 
 <p><strong> 이진섭 </strong></p>
 > * pysnooper에 한가지 색상으로만 출력되는 문제 이슈 생성<br>
-* 이슈에 대한 얘기 후, 출력 결과물에 색상을 추가하는 기능 작성
-* To_do_list 작성
-* color function을 담은 tracer.py pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/2"</a>)<br>
+* 이슈에 대한 얘기 후, 출력 결과물에 색상을 추가하는 기능 작성<br>
+* To_do_list 작성<br>
+* color function을 담은 tracer.py pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/2">Pull&Request#2</a>)<br>
