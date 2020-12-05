@@ -24,7 +24,7 @@ tags: Topic
 * 각 파일에 주석 작업<br>
 * Pysnooper에 이슈로 남아있는 relative time 관련 버그 이슈 생성 (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/10">Issue#10</a>)<br>
 * relative time 버그 관련 작업<br>
-* pull& request merge 관리<br>
+* pull& request merge, confliction 관리<br>
 * 여러개의 issue에 comment 활동<br>
 
 <p><strong> 이수민 </strong></p>(<a href="https://xhdzl6280.github.io/">개인 블로그 방문</a>)<br>
