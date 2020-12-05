@@ -59,7 +59,7 @@ tags: Topic
 
 최종적으로 개인이 작업하여 합친 결과물을 본 프로젝트에 기여<br>
 기존 프로젝트 ↓<br>
-![original]({{site.baseurl}}/original_pysnooper.jpg)<br>
+![original]({{site.baseurl}}/origin_pysnooper.jpg)<br>
 개선된 프로젝트(선택적 color 출력 기능 구현) ↓<br>
 ![colored]({{site.baseurl}}/images/colored_pysnooper.jpg)<br>
 <br>
