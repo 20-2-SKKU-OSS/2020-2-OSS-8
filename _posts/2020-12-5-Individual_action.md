@@ -14,17 +14,17 @@ tags: Topic
 <p><strong> 임호진  </strong></p>
 > * 팀 정적 페이지 구성에 참여<br>
 * 추후 팀 활동에 대한 구체적인 계획 수립<br>
-* 각 파일에 주석 작업
+* 각 파일에 주석 작업<br>
 * Pysnooper에 이슈로 남아있는 relative time 관련 버그 이슈 생성 (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/10">Issue#10</a>)<br>
 * relative time 버그 관련 작업<br>
-* pull& request merge 관리
+* pull& request merge 관리<br>
 * 여러개의 issue에 comment 활동<br>
 
 <p><strong> 이수민 </strong></p>
 > * 팀 정적 페이지 구성에 참여<br> 
-* 각 파일에 주석 작업
+* 각 파일에 주석 작업<br>
 * 각종 Issue 분석해서 포스트로 작성 (<a href="https://20-2-skku-oss.github.io/2020-2-OSS-8/2020/12/05/team_fourth/">Issue분석</a>)<br>
-* 본 프로젝트 관련 최종 발표자료 작성 담당
+* 본 프로젝트 관련 최종 발표자료 작성 담당<br>
 * relative time 관련 작업 <br>
 * 여러개의 issue에 comment  활동<br>
 
@@ -37,7 +37,7 @@ tags: Topic
 
 <p><strong> 김민제 </strong></p>
 > * 팀 정적 페이지 구성에 참여<br>
-* 각 파일마다 주석, 안 쓰이는 라이브러리 삭제
+* 각 파일마다 주석, 안 쓰이는 라이브러리 삭제<br>
 * pysnooper test를 위한 testcase 추가<br>
 * 색깔 출력 기능이 더해진 tracer.py파일에 보충 작업 (exception color 기능 보완) 후 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/4">Pull&Request#4</a>)<br>
 * 개선된 프로젝트 본 프로젝트에 기여 시도<br>
@@ -46,7 +46,7 @@ tags: Topic
 
 <p><strong> 양세중 </strong></p>
 > * 팀 정적 페이지 구성에 참여<br>
-* 각 파일에 주석 작업
+* 각 파일에 주석 작업<br>
 * 영어로만 작성된 Pysnooper의 readme.md의 한글 번역본 새로 작성하여 추가<br>
 * relative time 관련 작업<br>
 * 여러개의 issue에 comment 활동<br>
