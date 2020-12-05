@@ -2,7 +2,7 @@
 layout: post
 title: Team Project에 개인별 기여 활동
 date: 2020-12-5 21:8:28 +0300
-img: improvement_1.jpg
+img: contribution.jpg
 tags: Topic
 ---
 
@@ -36,7 +36,7 @@ OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동�
 * 색깔 출력 기능이 더해진 tracer.py파일에 보충 작업 (exception color 기능 보완) 후 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/4">Pull*Request#4</a>)<br>
 * 개선된 프로젝트 본 프로젝트에 기여 시도<br>
 * 개발자의 요구에 맞춰 선택적 color 기능 구현하여 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/11/commits/5e1d6983fa40a7bd44aedbee24dbe06a910cdfd9">Pull*Request#11</a>)<br>
-* 개발자 요구 이슈화 <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/8"Issue#8</a><br>
+* 개발자 요구 이슈화 <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/8">Issue#8</a><br>
 
 <p><strong> 양세중 </strong></p>
 
