@@ -41,7 +41,7 @@ tags: Topic
 * pysnooper의 기능 실험을 위한 2개 언어의 testcase 추가하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/6">Pull&Request#6</a>)<br>
 * 정적 페이지 정리 관련 이슈 생성<br> (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/9">Issue#9</a>)<br>
 * relative time 관련 작업<br>
-* pysnooper 프로젝트 관리(라벨링, 커맨트 관리)
+* pysnooper 프로젝트 관리(라벨링, 커맨트 관리)<br>
 * 여러개의 issue에 comment 활동<br>
 
 <p><strong> 김민제 </strong></p>(<a href="https://yunminjin2.github.io/">개인 블로그 방문</a>)<br>
