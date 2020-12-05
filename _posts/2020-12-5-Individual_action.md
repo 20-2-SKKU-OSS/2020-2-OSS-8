@@ -20,19 +20,20 @@ tags: Topic
 * pull& request merge 관리<br>
 * 여러개의 issue에 comment 활동<br>
 
-<p><strong> 이수민 </strong></p>
+<p><strong> 이수민 </strong></p>(<a href="https://xhdzl6280.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br> 
 * 각 파일에 주석 작업<br>
 * 각종 Issue 분석해서 포스트로 작성 (<a href="https://20-2-skku-oss.github.io/2020-2-OSS-8/2020/12/05/team_fourth/">Issue분석</a>)<br>
+* variables 파일 주석 추가 및 줄간격 수정하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/5">Pull&Request#5</a>)<br>
 * 본 프로젝트 관련 최종 발표자료 작성 담당<br>
 * relative time 관련 작업 <br>
 * 여러개의 issue에 comment  활동<br>
 
 <p><strong> 천기오 </strong></p>(<a href="https://cheonkio.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
-* pysnooper의 기능 실험을 위한 testcase 추가하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/6">Pull&Request#6</a>)<br>
-* variables 파일 주석 추가 및 줄간격 수정하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/5">Pull&Request#5</a>)<br>
+* pysnooper의 기능 실험을 위한 2개 언어의 testcase 추가하여 Pull&Request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/6">Pull&Request#6</a>)<br>
 * 정적 페이지 정리 관련 이슈 생성<br> (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/9">Issue#9</a>)<br>
+* relative time 관련 작업<br>
 * 여러개의 issue에 comment 활동<br>
 
 <p><strong> 김민제 </strong></p>(<a href="https://yunminjin2.github.io/">개인 블로그 방문</a>)<br>
