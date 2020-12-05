@@ -9,6 +9,7 @@ tags: Topic
 
 ### 개인별 기여활동 정리
 OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동을 정리합니다.
+팀 Discussion Session (<a href="https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8">https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8</a>)<br>
 
 <p><strong> 임호진  </strong></p>
 > *팀 정적 페이지 구성에 참여<br>
