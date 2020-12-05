@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Project Introducing
+title: Team Project 최종선정
 date: 2020-11-22 23:34:28 +0300
 img: Introducing.jpg
 tags: Introduction
