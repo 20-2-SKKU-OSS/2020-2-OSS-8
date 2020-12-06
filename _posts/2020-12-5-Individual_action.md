@@ -43,16 +43,18 @@ tags: Topic
 * 정적 페이지 정리 관련 이슈 생성<br> (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/9">Issue#9</a>)<br>
 * relative time 관련 작업<br>
 * pysnooper 프로젝트 관리(라벨링, 커맨트 관리)<br>
+* pysnooper를 중첩해서 사용했을시 제대로 디버깅 못하는 과정 이슈화(<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/12">Issue#12</a>)<br>
 * 여러개의 issue에 comment 활동<br>
 
 <p><strong> 김민제 </strong></p>(<a href="https://yunminjin2.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
-* 각 파일마다 주석 안 쓰이는 라이브러리 삭제<br>
+* 각 파일마다 주석 추가 및 안 쓰이는 라이브러리 삭제<br>
 * pysnooper test를 위한 testcase 추가<br>
 * 색깔 출력 기능이 더해진 tracer.py파일에 보충 작업 (exception color 기능 보완) 후 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/4">Pull&Request#4</a>)<br>
 * 개선된 프로젝트 본 프로젝트에 기여 시도<br>
 * 개발자의 요구에 맞춰 선택적 color 기능 구현하여 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/11/commits/5e1d6983fa40a7bd44aedbee24dbe06a910cdfd9">Pull&Request#11</a>)<br>
 * 개발자 요구 이슈화 <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/issues/8">Issue#8</a><br>
+* 여러개의 issue에 comment 활동<br>
 
 <p><strong> 양세중 </strong></p>(<a href="https://yangsejung.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
@@ -71,3 +73,5 @@ tags: Topic
 
 최종적으로 개인이 작업하여 합친 결과물을 본 프로젝트에 기여<br>
 개선된 프로젝트 기여시도(<a href="https://github.com/cool-RR/PySnooper/pull/208">https://github.com/cool-RR/PySnooper/pull/208"</a>)<br>
+
+감사합니다.<br>
