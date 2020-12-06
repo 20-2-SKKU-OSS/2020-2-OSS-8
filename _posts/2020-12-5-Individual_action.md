@@ -57,7 +57,7 @@ tags: Topic
 <p><strong> 양세중 </strong></p>(<a href="https://yangsejung.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
 * 각 파일에 주석 작업<br>
-* 영어로만 작성된 Pysnooper의 readme.md의 한글 번역본 새로 작성하여 추가<br> <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/blob/master/README_KR.md"README_KR.md</a><br>
+* 영어로만 작성된 Pysnooper의 readme.md의 한글 번역본 새로 작성하여 추가<br> <a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/blob/master/README_KR.md">README_KR.md</a><br>
 * relative time 관련 작업<br>
 * 여러개의 issue에 comment 활동<br>
 
