@@ -47,7 +47,7 @@ tags: Topic
 
 <p><strong> 김민제 </strong></p>(<a href="https://yunminjin2.github.io/">개인 블로그 방문</a>)<br>
 > * 팀 정적 페이지 구성에 참여<br>
-* 각 파일마다 주석 추가  안 쓰이는 라이브러리 삭제<br>
+* 각 파일마다 주석 추가  및 안 쓰이는 라이브러리 삭제<br>
 * pysnooper test를 위한 testcase 추가<br>
 * 색깔 출력 기능이 더해진 tracer.py파일에 보충 작업 (exception color 기능 보완) 후 pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/4">Pull&Request#4</a>)<br>
 * 개선된 프로젝트 본 프로젝트에 기여 시도<br>
