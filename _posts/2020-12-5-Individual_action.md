@@ -8,6 +8,16 @@ tags: Topic
 
 
 ### 개인별 기여활동 정리<br>
+ OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동을 정리합니다.<br><br>
+ 저희 OSS-8조는 목표대로, 기존 프로젝트의 개선점, 여러가지 이슈 테스트, relative time 관련해서 작업을 진행했습니다. 개선점 개선 관련해서는 개발자분과의 소통을 통해서 선택적 색깔 출력 기능 구현을 완료하였습니다.<br>
+![original]({{site.baseurl}}/images/origin_pysnooper.jpg)<br>
+ (기존 프로젝트)<br>
+![colored]({{site.baseurl}}/images/colored_pysnooper.jpg)<br>
+(개선된 프로젝트(선택적 color 출력 기능 구현) <br>
+<br>
+이하 내용은 저희 팀의 Discussion Session과 개인별 기여 항목을 정리한 것입니다.<br>
+팀 Discussion Session (<a href="https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8">https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8</a>)<br>
+
 <p><strong> 임호진  </strong></p>
 > * 팀 정적 페이지 구성에 참여<br>
 * 추후 팀 활동에 대한 구체적인 계획 수립<br>
@@ -58,3 +68,6 @@ tags: Topic
 * To_do_list 작성<br>
 * color function을 담은 tracer.py pull&request (<a href="https://github.com/20-2-SKKU-OSS/PySnooper-8/pull/2">Pull&Request#2</a>)<br>
 * 여러개의 issue에 comment 활동<br>
+
+최종적으로 개인이 작업하여 합친 결과물을 본 프로젝트에 기여<br>
+개선된 프로젝트 기여시도(<a href="https://github.com/cool-RR/PySnooper/pull/208">https://github.com/cool-RR/PySnooper/pull/208"</a>)<br>
