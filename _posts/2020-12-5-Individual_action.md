@@ -8,7 +8,7 @@ tags: Topic
 
 ### 개인별 기여활동 정리<br>
  OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동을 정리합니다.<br><br>
- 저희 OSS-8조는 목표대로, 기존 프로젝트의 개선점, 여러가지 이슈 테스트, relative time 관련해서 작업을 진행했습니다. 개선점 개선 관련해서는 개발자분과의 소통을 통해서 선택적 색깔 출력 기능 구현을 완료하였습니다.<br>
+ 저희 OSS-8조는 목표대로, 기존 프로젝트의 개선점, 여러가지 이슈 테스트, relative time 관련해서 작업을 진행했습니다. 추가적으로 저희는 pysnoop의 중첩사용관련한 issue에 대해서 작업을 진행했습니다. 특히, 개선점 개선 관련해서는 개발자분과의 소통을 통해서 선택적 색깔 출력 기능 구현을 완료하였습니다.<br>
 ![original]({{site.baseurl}}/images/origin_pysnooper.jpg)<br>
  (기존 프로젝트)<br>
 ![colored]({{site.baseurl}}/images/colored_pysnooper.jpg)<br>
