@@ -17,7 +17,7 @@ tags: Topic
 이하 내용은 저희 팀의 Discussion Session과 개인별 기여 항목을 정리한 것입니다.<br>
 팀 Discussion Session (<a href="https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8">https://github.com/orgs/20-2-SKKU-OSS/teams/2020-2-oss-8</a>)<br>
 
-<p><strong> 임호진  </strong></p>
+<p><strong> 임호진 (조장)  </strong></p>
 > * 팀 정적 페이지 구성에 참여<br>
 * 추후 팀 활동에 대한 구체적인 계획 수립<br>
 * 각 파일에 주석 작업<br>
