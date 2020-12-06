@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Team Project에 개인별 기여 활동
-date: 2020-12-5 21:8:28 +0300
+date: 2020-12-6 21:8:28 +0300
 img: contribution.jpg
 tags: Topic
 ---
-
 
 ### 개인별 기여활동 정리<br>
  OSS-8조가 선정한 프로젝트 'PySnooper'에서 개인이 기여한 활동을 정리합니다.<br><br>
